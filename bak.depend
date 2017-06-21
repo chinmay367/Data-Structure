@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1464539057 source:c:\users\hp\documents\bak\bankdef.c
+	"banking.h"
+
+1464539018 c:\users\hp\documents\bak\banking.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1464539747 source:c:\users\hp\documents\bak\main.c
+	"banking.h"
+
